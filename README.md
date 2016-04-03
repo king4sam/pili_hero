@@ -8,7 +8,7 @@
 
 ## 使用說明
 - 使用按鍵精靈9
-- 新建腳本，使用記事本編輯pili_hero_sail.Q，將程式碼複製過去  
+- 新建腳本，使用記事本開啟sail_script.Q，將程式碼複製過去  
 ![ready to go](copy.png)
 - 將圖片路徑改為在你電腦上的路徑  
 ![ready to go](pic.png)
