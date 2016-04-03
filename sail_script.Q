@@ -16,7 +16,7 @@ bluestack_leftup_y =8
 bluestack_rightdown_x = 1362
 bluestack_rightdown_y = 723
 '圖片路徑
-picture_figjt = "C:\pictures\fight.bmp"
+picture_fight = "C:\pictures\fight.bmp"
 picture_skip = "C:\pictures\skip.bmp"
 picture_score = "C:\pictures\score.bmp"
 picture_rob = "C:\pictures\rob.bmp"
@@ -41,7 +41,7 @@ While True
 	MoveTo arx, ary
 	LeftClick 1
 	'海盜戰
-	FindPic bluestack_leftup_x,bluestack_leftup_y,bluestack_rightdown_x,bluestack_rightdown_y,picture_figjt,0.9,batX,batY
+	FindPic bluestack_leftup_x,bluestack_leftup_y,bluestack_rightdown_x,bluestack_rightdown_y,picture_fight,0.9,batX,batY
 	If batX > 0 And batY > 0 Then
 		MoveTo batX + button_offset_x, batY + button_offset_y
 		'MoveTo 1148, 546
