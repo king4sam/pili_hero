@@ -12,9 +12,9 @@
 ![ready to go](copy.png)
 - 將圖片路徑改為在你電腦上的路徑  
 ![ready to go](pic.png)
-- 重新定位bluestack視窗 左上、右下 的xy座標  
+- 用按鍵精靈的抓抓，重新定位bluestack視窗 左上、右下 的xy座標  
 ![ready to go](bluestack.png)
-- 重新定位左中右三個箭頭的xy座標  
+-用按鍵精靈的抓抓， 重新定位左中右三個箭頭的xy座標  
 ![ready to go](arrow.png)
 - 儲存腳本
 - 進入航海畫面  
